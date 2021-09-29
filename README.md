@@ -1,6 +1,6 @@
 # Dog Breed Classifier App  
 ## NOTE:  
-This project is part of [Deep Learning program on Udacity] (https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+This project is part of [Deep Learning program on Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 ## This notebook is about building dog breed classifier, and to add some fun to it, it will display the most resembling dog breed if a human image is passed to it
 ### Steps:
 * We need to build dog detector, and human face detector.
